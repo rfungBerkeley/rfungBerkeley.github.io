@@ -2,21 +2,21 @@
 	"movies": [
 		{
 			"Title": "Tuesday",
-			"Director": "September 12",
-			"Rating": "7:54pm",
-			"Year": "corner of rug that is closest to the bed",
+			"Director": "September",
+			"Rating": "bean",
+			"Year": "rug",
 		},
 		{
 			"Title": "Tuesday",
 			"Director": "September 12",
-			"Rating": "8:31pm",
+			"Rating": "half moon",
 			"Year": "Pink Chair"
 		},
 		{
 			"Title": "Wednesday",
 			"Director": "September 13",
 			"Rating": "inside open closet",
-			"Year": "8:25am"
+			"Year": "loaf"
 		}
 	]
 }
