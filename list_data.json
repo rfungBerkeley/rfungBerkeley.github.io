@@ -2,21 +2,27 @@
 	"catspots": [
 		{
 			"Date": "Tuesday September 12th",
+			"Time": "7:45pm",
 			"Location": " Upper Corner of Rug",
 			"Shape": "Bean",
-			"Time": "7:45pm"
 		},
 		{
 			"Date": "Tuesday September 12th",
+			"Time": "8:31pm",
 			"Location": "Pink Chair",
-			"Shape": "Cresent",
-			"Time": "8:31pm"
+			"Shape": "Cresent"
 		},
 		{
 			"Date": "Tuesday September 13th",
+			"Time": "8:25am",
 			"Location": "Closet",
-			"Shape": "Loaf",
-			"Time": "8:25am"
+			"Shape": "Loaf"
+		},
+		{
+			"Date": "",
+			"Time": "",
+			"Location": "",
+			"Shape": ""
 		}
 	]
 }
