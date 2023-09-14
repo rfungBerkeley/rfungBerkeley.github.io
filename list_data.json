@@ -1,19 +1,19 @@
 {
 	"movies": [
 		{
-			"Title": "Tuesday September 12th",
+			"Date": "Tuesday September 12th",
 			"Director": "Sofia Coppola",
 			"Rating": "R",
 			"Year": "2003"
 		},
 		{
-			"Title": "Tuesday September 12th",
+			"Date": "Tuesday September 12th",
 			"Director": "Martin Campbell",
 			"Rating": "PG-13",
 			"Year": "2006"
 		},
 		{
-			"Title": "Tuesday September 13th",
+			"Date": "Tuesday September 13th",
 			"Director": "Christopher Nolan",
 			"Rating": "PG-13",
 			"Year": "2008"
