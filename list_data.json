@@ -1,5 +1,5 @@
 {
-	"catspots": [
+	"movies": [
 		{
 			"Date": "Tuesday September 12th",
 			"Time": "7:45pm",
@@ -18,11 +18,6 @@
 			"Location": "Closet",
 			"Shape": "Loaf"
 		},
-		{
-			"Date": "",
-			"Time": "",
-			"Location": "",
-			"Shape": ""
-		}
+		
 	]
 }
