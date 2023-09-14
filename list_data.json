@@ -2,19 +2,19 @@
 	"movies": [
 		{
 			"Date": "Tuesday September 12th",
-			"Director": "Sofia Coppola",
+			"Location": "Rug",
 			"Rating": "R",
 			"Year": "2003"
 		},
 		{
 			"Date": "Tuesday September 12th",
-			"Director": "Martin Campbell",
+			"Location": "Pink Chair",
 			"Rating": "PG-13",
 			"Year": "2006"
 		},
 		{
 			"Date": "Tuesday September 13th",
-			"Director": "Christopher Nolan",
+			"Location": "Closet",
 			"Rating": "PG-13",
 			"Year": "2008"
 		}
