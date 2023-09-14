@@ -2,20 +2,20 @@
 	"movies": [
 		{
 			"Date": "Tuesday September 12th",
-			"Location": "Rug",
-			"Rating": "R",
+			"Location": " Upper Corner of Rug",
+			"Shape": "Bean",
 			"Year": "2003"
 		},
 		{
 			"Date": "Tuesday September 12th",
 			"Location": "Pink Chair",
-			"Rating": "PG-13",
+			"Shape": "Cresent",
 			"Year": "2006"
 		},
 		{
 			"Date": "Tuesday September 13th",
 			"Location": "Closet",
-			"Rating": "PG-13",
+			"Shape": "Loaf",
 			"Year": "2008"
 		}
 	]
