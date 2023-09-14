@@ -1,29 +1,22 @@
-{
+
 	"movies": [
 		{
-			"Date": "Tuesday September 12th",
-			"Location": " Upper Corner of Rug",
-			"Shape": "Bean",
-			"Time": "7:45pm"
+			"Title": "Lost In Translation",
+			"Director": "Sofia Coppola",
+			"Rating": "R",
+			"Year": "2003"
 		},
 		{
-			"Date": "Tuesday September 12th",
-			"Location": "Pink Chair",
-			"Shape": "Cresent",
-			"Time": "8:31pm"
+			"Title": "Casino Royale",
+			"Director": "Martin Campbell",
+			"Rating": "PG-13",
+			"Year": "2006"
 		},
 		{
-			"Date": "Tuesday September 13th",
-			"Location": "Closet",
-			"Shape": "Loaf",
-			"Time": "8:25am",
-		},
-		{
-			"Date": "Tuesday September 13th",
-			"Time": "",
-			"Location": "",
-			"Shape": "",
-			"Time": ""
+			"Title": "The Dark Knight",
+			"Director": "Christopher Nolan",
+			"Rating": "PG-13",
+			"Year": "2008"
 		}
 	]
 }
