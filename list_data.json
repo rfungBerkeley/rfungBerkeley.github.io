@@ -1,22 +1,25 @@
-
-	"movies": [
+{
+	"catspots": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Day": "Tuesday",
+			"Date":"September 12",
+			"Time": "7:54pm",
+			"Location": "corner of rug that is closest to the bed",
+			"Shape": "Faced away bean with top back foot extended"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Day": "Tuesday",
+			"Date":"September 12",
+			"Time": "8:31pm",
+			"Location": "Pink Chair",
+			"Shape": "half moon on left side with back and top front paws extended "
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Day": "Wednesday",
+			"Date":"September 13",
+			"Location": "inside open closet",
+			"Time" : "8:25am",
+			"Shape": "loaf"
 		}
 	]
 }
