@@ -2,22 +2,28 @@
 	"movies": [
 		{
 			"Date": "Tuesday September 12th",
-			"Time": "7:45pm",
 			"Location": " Upper Corner of Rug",
 			"Shape": "Bean",
+			"Time": "7:45pm"
 		},
 		{
 			"Date": "Tuesday September 12th",
-			"Time": "8:31pm",
 			"Location": "Pink Chair",
-			"Shape": "Cresent"
+			"Shape": "Cresent",
+			"Time": "8:31pm"
 		},
 		{
 			"Date": "Tuesday September 13th",
-			"Time": "8:25am",
 			"Location": "Closet",
-			"Shape": "Loaf"
+			"Shape": "Loaf",
+			"Time": "8:25am",
 		},
-		
+		{
+			"Date": "Tuesday September 13th",
+			"Time": "",
+			"Location": "",
+			"Shape": "",
+			"Time": ""
+		}
 	]
 }
