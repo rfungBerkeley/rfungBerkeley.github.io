@@ -4,7 +4,7 @@
 			"Day": "Tuesday",
 			"Date":"September 12",
 			"Time": "7:54pm",
-			"Location": "Rug",
+			"Location": "Corner of Rug",
 			"Shape": "Bean"
 		},
 		{
@@ -12,7 +12,7 @@
 			"Date":"September 12",
 			"Time": "8:31pm",
 			"Location": "Pink Chair",
-			"Shape": "Crescent "
+			"Shape": "Crescent"
 		},
 		{
 			"Day": "Wednesday",
@@ -20,6 +20,49 @@
 			"Time" : "8:25am",
 			"Location": "Closet",
 			"Shape": "Loaf"
-		}
+		},
+		{
+			"Day": "Thursday",
+			"Date":"September 14",
+			"Time" : "8:12pm",
+			"Location": "Cushion Under Bed",
+			"Shape": "Loaf"
+		},
+		{
+			"Day": "Thursday",
+			"Date":"September 14",
+			"Time" : "9:50pm",
+			"Location": "Corner of Bed",
+			"Shape": "Bean"
+		},
+		{
+			"Day": "Friday",
+			"Date":"September 15",
+			"Time" : "9:30pm",
+			"Location": "Center Rug",
+			"Shape": "Bean"
+		},
+		{
+			"Day": "Saturday",
+			"Date":"September 16",
+			"Time" : "3:18pm",
+			"Location": "Under Bed",
+			"Shape": "Crescent"
+		},
+		{
+			"Day": "Sunday",
+			"Date":"September 17",
+			"Time" : "1:23pm",
+			"Location": "On Bed",
+			"Shape": "Bean"
+		},
+		{
+			"Day": "Sunday",
+			"Date":"September 17",
+			"Time" : "5:48pm",
+			"Location": "Rug",
+			"Shape": "Crescent"
+		},
+
 	]
 }
