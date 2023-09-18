@@ -69,6 +69,13 @@
 			"Time" : "9:07pm",
 			"Location": "Corner of Bed",
 			"Shape": "Crescent"
+		},
+		{
+			"Day": "Monday",
+			"Date":"September 18",
+			"Time" : "4:53pm",
+			"Location": "Ottoman",
+			"Shape": "Loaf"
 		}
 
 	]
