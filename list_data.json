@@ -53,21 +53,21 @@
 			"Day": "Sunday",
 			"Date":"September 17",
 			"Time" : "1:23pm",
-			"Location": "On Bed",
+			"Location": "Center Bed",
 			"Shape": "Bean"
 		},
 		{
 			"Day": "Sunday",
 			"Date":"September 17",
 			"Time" : "5:48pm",
-			"Location": "Rug",
+			"Location": "Center Rug",
 			"Shape": "Crescent"
 		},
 		{
 			"Day": "Sunday",
 			"Date":"September 17",
 			"Time" : "9:07pm",
-			"Location": "On Bed",
+			"Location": "Corner of Bed",
 			"Shape": "Crescent"
 		}
 
